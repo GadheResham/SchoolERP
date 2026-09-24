@@ -1,0 +1,6 @@
+{
+  "name": "SchoolERP",
+  "description": "SchoolERP - Intuitive, high-clarity school management system for administrators: student directory, daily attendance, fee management, academic classes, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

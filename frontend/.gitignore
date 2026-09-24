@@ -1,0 +1,25 @@
+# ── Dependencies ──────────────────────────────────────
+node_modules/
+
+# ── Vite build output ─────────────────────────────────
+dist/
+dist-ssr/
+
+# ── Environment variables ─────────────────────────────
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# ── Vite cache ────────────────────────────────────────
+.vite/
+
+# ── TypeScript build info ─────────────────────────────
+*.tsbuildinfo
+
+# ── Editor / OS artifacts ─────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
